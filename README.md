@@ -1,4 +1,5 @@
 # Python
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
 This Repository Is A Comprehensive Collection Of Beginner-Friendly Python Scripts And Examples Covering The Fundamentals Of Python Programming And Commonly Used Standard And External Modules.
 It Serves As A Great Starting Point For Learners, Educators, And Developers Who Want To Understand Python Concepts Through Simple, Well-Documented Examples.
 Contents Include:
